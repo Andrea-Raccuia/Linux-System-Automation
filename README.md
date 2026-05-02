@@ -1,6 +1,6 @@
 # Linux System Automation Suite 🐧
 
-This repository is the final output of **Phase 1** of my "Linux Practical Study Plan (2026)". It consists of a modular suite of Bash scripts designed for system monitoring, automated backups, and batch file management.
+This repository consists of a modular suite of Bash scripts designed for system monitoring, automated backups, and batch file management.
 
 The project demonstrates a transition from high-level programming logic (C++) to low-level system automation and shell scripting.
 
